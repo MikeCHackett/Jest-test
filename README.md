@@ -18,4 +18,4 @@ Today I decided to try out my jest testing skills and knowledge by creating a si
 
 
 
-<img src= "jesttest1.png" width= '300'/>
+<img src= "jesttest1.png" width= '1000'/>
