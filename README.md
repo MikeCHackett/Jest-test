@@ -1,5 +1,7 @@
 # Jest-test
 
+
+## Description
 Today I decided to try out my jest testing skills and knowledge by creating a simple greet function that has the following requirements:
 
 
@@ -13,3 +15,7 @@ Today I decided to try out my jest testing skills and knowledge by creating a si
 -Next, Handle two names as input. If the name parameter is an array containing two names, then both names should be greeted. For example, if the input parameter is [‘Jose’,’Pep’], the method should return the string: “Hello, Jose, Pep”. 
 
 -Finally, Handle an arbitrary number of names as input. If the name parameter is an array of multiple names, all names must be greeted. For example, if the input parameter is [‘Alex’,’Arsene’,’Jose’,’Zidane’], the method should return the string: “Hello, Alex, Arsene, Jose, Zidane”
+
+
+
+<img src= "jesttest1.png" width= '300'/>
